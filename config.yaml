@@ -29,11 +29,9 @@ params:
         -   name: "x"
             url: "https://x.com/0xLars_"
         -   name: "github"
-            url: "https://github.com/lsuanet"
+            url: "https://github.com/lars0x"
         -   name: "telegram"
             url: "https://t.me/lars0x"
-        -   name: "linkedin"
-            url: "https://www.linkedin.com/in/larssuanet/"
 
 languages:
     en:
